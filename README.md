@@ -97,7 +97,7 @@ Depending on your wallet, the main reader and example pages can work with:
 - **EU Age Verification** – `eu.europa.ec.av.1` (age‑only attestations such as `age_over_18`)
 - **Photo ID** – `org.iso.23220.photoID.1` (+ related ISO 23220 namespaces)
 - **mICOV** – `org.micov.1` (vaccination / test attestations)
-- **mVC** – `org.iso.7367.1.mVC` (vehicle card)
+- **mVC** – `org.iso.7367.2.1.mVC` (vehicle card)
 - **Studend Card** - `fr.ft.hsc.1` (+ related ISO 23220 namespaces)
 
 Your wallet may not support all of these doctypes; the app will only show data for documents actually returned by the wallet.
